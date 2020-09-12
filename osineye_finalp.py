@@ -13,10 +13,10 @@ def createCursor():
       size = 200
       
       #twitter developer account keys
-      consumer_key = 'DDd3G2UBT3QG1QujETuL6VRQU'
-      consumer_secret = 'vXhFSPk8DpaRDk3tgET1AJmq7m5SixfIp64dtlFMhyR4mrb46g'
-      access_token = '1186034642484449291-pAGuRupWMQUYLkrW18J9aPn84D7GH5'
-      access_token_secret = '7zYKRur4gsWIH0kDgfiKzwGZEfMkllN5jhqO23Rnl6h93'
+      consumer_key = 'CONSUMER_KEY'
+      consumer_secret = 'CONSUMER_SCRET'
+      access_token = 'ACCESS_TOKEN'
+      access_token_secret = 'ACCESS_TOKEN_SECRET'
       
       #tweepy authentication
       auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
