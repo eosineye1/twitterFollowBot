@@ -1,5 +1,5 @@
 
-#Twitter FollowBot 
+# Twitter FollowBot 
 
 *	Whether the account has a profile picture
 *	How many followers and friends the account has
@@ -13,7 +13,7 @@
 Run in terminal ```git clone https://github.com/eosineye1/twitterFollowBot.git```
 Navigate to directory ```cd twitterFollowBot```
 
-##Prerequisites
+## Prerequisites
 *   Download [Python](https://www.python.org/downloads/) 
 *   Before running the application, create an twitter account. 
 *   Then apply for a [developer account](https://developer.twitter.com/en/apply-for-access) 
