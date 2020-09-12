@@ -11,8 +11,8 @@ The program is a menu drive program that allows you to identify twitter follow-b
 
 ## Getting started
 
-* 	Run in terminal ```sh git clone https://github.com/eosineye1/twitterFollowBot.git```
-* 	Navigate to directory ```sh cd twitterFollowBot```
+* 	Run in terminal ```git clone https://github.com/eosineye1/twitterFollowBot.git```
+* 	Navigate to directory ```cd twitterFollowBot```
 
 ## Prerequisites
 *   Download [Python](https://www.python.org/downloads/).
@@ -21,9 +21,9 @@ The program is a menu drive program that allows you to identify twitter follow-b
 *   Then create an app with consumer key, consumer secret, access token, and access token secret. 
 * 	Replace your the consumer key, consumer secret, access token, and access token secret in the code with the ones provide in your app.
 *   If you do not do the steps above, the programme will not work. 
-*   Also replace the twitter account to access for twitter bots by replavce the variable ```sh twitterAccount``` with the handle of the twitter account you want to examine.
+*   Also replace the twitter account to access for twitter bots by replavce the variable ```twitterAccount``` with the handle of the twitter account you want to examine.
 
 ## How to Run
-* 	In a shell ```sh python3 osineye_finalp.py```
+* 	In a shell ```python3 osineye_finalp.py```
 
 
